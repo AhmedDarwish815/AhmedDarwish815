@@ -31,11 +31,9 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Profile Views
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedDarwish815&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDarwish815&layout=compact&hide_border=true&cache_seconds=1800)
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedDarwish815&color=blue&style=flat)
 
 ---
 
