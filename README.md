@@ -33,14 +33,15 @@
 
 ## 📈 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedDarwish815&show_icons=true&theme=default&hide_border=true)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedDarwish815&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDarwish815&layout=compact&hide_border=true)
 
 ---
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmeddarwish003/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ahmed.ashraf81545@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ahmed.ashraf81545@gmail.com)
 
 ---
 
