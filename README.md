@@ -65,25 +65,13 @@ me.sayHi();
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/AhmedDarwish815/Backend-Autism">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDarwish815&repo=Backend-Autism&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Backend-Autism" />
-</a>
-
-<a href="https://github.com/AhmedDarwish815/backend-strapi-autism">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDarwish815&repo=backend-strapi-autism&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="backend-strapi-autism" />
-</a>
-
-<a href="https://github.com/AhmedDarwish815/Ammar-AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDarwish815&repo=Ammar-AI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Ammar-AI" />
-</a>
-
-<a href="https://github.com/AhmedDarwish815/chat-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDarwish815&repo=chat-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="chat-app" />
-</a>
-
-<a href="https://github.com/AhmedDarwish815/autism-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedDarwish815&repo=autism-project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="autism-project" />
-</a>
+| Project | Tech | Link |
+|---------|------|------|
+| 🧠 Backend-Autism | TypeScript | [→ View](https://github.com/AhmedDarwish815/Backend-Autism) |
+| 🧩 backend-strapi-autism | TypeScript | [→ View](https://github.com/AhmedDarwish815/backend-strapi-autism) |
+| 🤖 Ammar-AI | Python | [→ View](https://github.com/AhmedDarwish815/Ammar-AI) |
+| 💬 chat-app | JavaScript | [→ View](https://github.com/AhmedDarwish815/chat-app) |
+| 🌐 autism-project | TypeScript | [→ View](https://github.com/AhmedDarwish815/autism-project) |
 
 ---
 
