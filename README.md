@@ -31,9 +31,7 @@
 
 ---
 
-## 📈 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedDarwish815&color=blue&style=flat)
 
 ---
 
