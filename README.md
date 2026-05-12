@@ -1,44 +1,72 @@
-# Hi, I'm Ahmed Darwish 👋
+# Hello there 👋
 
-🎯 Aspiring Full-Stack MEAN Developer  
-📍 Egypt  
-🌱 Currently mastering the MEAN Stack (MongoDB, Express.js, Angular, Node.js)
+```javascript
+#!/usr/bin/node
+
+class SoftwareEngineer {
+  constructor() {
+    this.name = "Ahmed Darwish";
+    this.role = "Aspiring Full-Stack MEAN Developer";
+    this.location = "Egypt";
+    this.languages = ["Arabic", "English"];
+    this.currentlyLearning = ["MEAN Stack", "Algorithms", "Data Structures", "Linux"];
+  }
+
+  sayHi() {
+    console.log("Thanks for dropping by, hope you find some of my work interesting.");
+  }
+}
+
+const me = new SoftwareEngineer();
+me.sayHi();
+```
 
 ---
 
-## 🚀 What I'm Learning
+## 🔧 Technologies & Tools
 
-- **JavaScript & Node.js** — Deep dive into JS internals, async programming, and backend development
+**Frontend:**
+
+![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
+![Angular](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=6aa6f8)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
+
+**Backend:**
+
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=6aa6f8)
+![Express.js](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=6aa6f8)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
+
+**Tools & Environment:**
+
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![Linux](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![VS Code](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhmedDarwish815&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🚀 Currently Learning
+
+- **Node.js & JavaScript** — Deep dive into JS internals, async programming, V8 engine
 - **Algorithms & Data Structures** — Big O, Sorting, Graphs, Dynamic Programming
-- **MEAN Stack** — Building full-stack web applications
-- **Git & Linux** — Professional development workflow and server environments
-
----
-
-## 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-
+- **MEAN Stack** — Building full-stack web applications end to end
+- **Git & Linux** — Professional workflow and server environments
 
 ---
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmeddarwish003/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ahmed.ashraf81545@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ahmed.ashraf81545@gmail.com)
 
 ---
 
